@@ -18,6 +18,7 @@
     <mule.munit.support.version>3.8.4</mule.munit.support.version>
     </properties>
 
+
 	<build>
 		<plugins>
 			<plugin>
